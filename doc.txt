@@ -1,0 +1,2 @@
+https://app.swaggerhub.com/apis/ravinos/RaveOS-API/1.0?fbclid=IwAR2DgNEWcVdiHDeSJXVXti9GsgKJWpdO9KksxXvlLSbyflTTy684kWYZBW0#/default/getWorkers
+Api key: 1977927f-4b0a-440c-9905-03f3a823c7be
