@@ -1,2 +1,12 @@
 https://app.swaggerhub.com/apis/ravinos/RaveOS-API/1.0?fbclid=IwAR2DgNEWcVdiHDeSJXVXti9GsgKJWpdO9KksxXvlLSbyflTTy684kWYZBW0#/default/getWorkers
 Api key: 1977927f-4b0a-440c-9905-03f3a823c7be
+
+/*
+   set prittierrc
+   -> vào https://prettier.io/ 
+      -> vào playground
+         ->chọn --print-width = 100
+         ->chọn --single-quote
+   -> copy config JSON và paste vào file .prettier
+   
+*/
